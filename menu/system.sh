@@ -108,7 +108,7 @@ restart
 speedtest
 ;;
 13)
-info
+about
 ;;
 14)
 bbr
