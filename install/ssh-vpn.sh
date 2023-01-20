@@ -309,6 +309,8 @@ wget -O run-update "https://raw.githubusercontent.com/${GitUser}/multiport/main/
 wget -O message-ssh "https://raw.githubusercontent.com/${GitUser}/multiport/main/update/message-ssh.sh"
 wget -O dns "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/dns.sh"
 wget -O nf "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/nf.sh"
+wget -O addip "https://raw.githubusercontent.com/${GitUser}/Multiport/main/menu/addip.sh"
+chmod +x addip
 chmod +x add-host
 chmod +x menu
 chmod +x add-ssh
