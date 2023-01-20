@@ -114,6 +114,8 @@ wget -O autobackup "https://raw.githubusercontent.com/${GitUser}/multiport/main/
 wget -O backup "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/backup.sh"
 wget -O bckp "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/bckp.sh"
 wget -O restore "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/restore.sh"
+wget -O addip "https://raw.githubusercontent.com/${GitUser}/Multiport/main/menu/addip.sh"
+chmod +x addip
 chmod +x update
 chmod +x run-update
 chmod +x message-ssh
