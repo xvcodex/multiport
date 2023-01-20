@@ -272,7 +272,6 @@ wget -O delete "https://raw.githubusercontent.com/${GitUser}/multiport/main/dele
 wget -O cek-ssh "https://raw.githubusercontent.com/${GitUser}/multiport/main/cek-user/cek-ssh.sh"
 wget -O restart "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/restart.sh"
 wget -O speedtest "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/speedtest_cli.py"
-wget -O info "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/info.sh"
 wget -O ram "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/ram.sh"
 wget -O renew-ssh "https://raw.githubusercontent.com/${GitUser}/multiport/main/renew-user/renew-ssh.sh"
 wget -O autokill "https://raw.githubusercontent.com/${GitUser}/multiport/main/autokill.sh"
@@ -320,7 +319,6 @@ chmod +x delete
 chmod +x cek-ssh
 chmod +x restart
 chmod +x speedtest
-chmod +x info
 chmod +x about
 chmod +x autokill
 chmod +x tendang
