@@ -1,4 +1,4 @@
-# Script Hasil Senip Websocket
+# Script  Websocket
 
  <h2 align="center">AutoScript VPN <img src="https://img.shields.io/badge/Version-senip_0.1-blue.svg"></h2>
 
